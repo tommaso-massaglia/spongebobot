@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 const TeleBot = require ('telebot');
 const isOdd = require ('is-odd');
 
@@ -21,3 +22,5 @@ function modificatesto(messaggio){
 }
     return testo;
 }
+
+bot.start();
