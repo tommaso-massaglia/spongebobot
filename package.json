@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot",
+  "name": "spongebobot",
   "version": "1.0.0",
   "description": "A bot to spongebobify things",
   "main": "start.js",

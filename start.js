@@ -21,5 +21,3 @@ function modificatesto(messaggio){
 }
     return testo;
 }
-
-bot.start();
