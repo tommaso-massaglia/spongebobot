@@ -4,7 +4,7 @@
   "description": "Spongebobify your text!",
   "main": "start.js",
   "scripts": {
-    "test": "bot.start();"
+    "test": "node start.js"
   },
   "repository": {
     "type": "git",
