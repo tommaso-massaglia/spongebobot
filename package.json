@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/tommaso-massaglia/spongebobot/issues"
   },
-  "homepage": "https://github.com/tommaso-massaglia/spongebobot#readme"
+  "homepage": "https://github.com/tommaso-massaglia/spongebobot#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1",
+    "telebot": "^1.2.6"
+  }
 }
