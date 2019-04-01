@@ -1,0 +1,24 @@
+{
+  "name": "spongebobot",
+  "version": "1.0.0",
+  "description": "Spongebobify your text!",
+  "main": "start.js",
+  "scripts": {
+    "test": "bot.start();"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommaso-massaglia/spongebobot.git"
+  },
+  "keywords": [
+    "bot",
+    "spongebob",
+    "funny"
+  ],
+  "author": "Tommaso Massaglia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommaso-massaglia/spongebobot/issues"
+  },
+  "homepage": "https://github.com/tommaso-massaglia/spongebobot#readme"
+}
