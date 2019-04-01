@@ -1,2 +1,0 @@
-# spongebobot
-Spongebobify your text!
